@@ -1,14 +1,16 @@
-focusing on:
+# ⚽ Soccer Analytics Lab
 
-Player scouting (xG, passes, defensive actions)
+A centralized hub for soccer analytics projects, including player scouting, match breakdowns, predictive modeling, and CV-based tracking.
 
-Match analysis report
+## 🔍 Projects Included
 
-Outcome prediction
+- **Player Scouting Dashboard** – Compare positional roles via xG, passes, and pressures
+- **Match Analysis Report** – Tactical storytelling with data visuals
+- **Outcome Predictor** – Classify win/draw/loss using in-game stats
+- **Player Tracking** – Vision-based movement mapping
+- **[Optional] NLP Sentiment Project** – Fan emotion during UCL/World Cup
 
-Computer vision tracking
-
-### Folder Structure:
+## Folder Structure:
 ```
 soccer-analytics/
 ├── data/
@@ -35,5 +37,9 @@ soccer-analytics/
 │   └── xg_analysis_blog.md
 ├── README.md
 └── requirements.txt
-
 ```
+
+## 💡 Goal
+
+To simulate the work of a soccer data analyst across tactical, statistical, and predictive tasks — ready for job portfolios or freelancing.
+
